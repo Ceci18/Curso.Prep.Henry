@@ -1,0 +1,11 @@
+CONCEPTOS PARA NIÑOS DE 12 AÑOS:
+
+*VARIABLES: una variable es algo que va transformando su valor. Por ejemplo: tu edad es variable, ahora tenés 12 años pero el año pasado tenías 11 y el año que viene tendrás 13.
+
+*STRINGS: son las oraciones que ves en lengua en la escuela. Por ejemplo: "Juan tiene 12 manzanas". Toooda la oración completa se llama string: incluye todas las letras y los números. Se lo toma así completo, como si fuese un bloquecito. Entonces a la oración le llamo string.
+
+*FUNCIONES: vamos a explicarlo con recetas de cocina. Por ejemplo: vos todos los días tenés que hacer el almuerzo. Entonces a la hora del almuerzo te fijas en la heladera qué hay para cocinar y después en google buscás qué receta hay con los ingredientes que tenés. ¿Cómo sería esto? Bueno, es fácil! En vez de ponerte a pensar vos solo qué receta hacer, google lo hace por vos, vos solamente le decís qué elementos tenés: papas, carne, queso, etc. Entonces tu tarea es ver qué receta hacer (que sería la función) y para saber qué receta hacer ocupas google (sería lo que "hace" la función) y por último los elementos que tenés en la heladera: papas, carne, queso serían los elementos que le pasas a la función.
+
+*DECLARACIONES: cada vez que salís temprano en la mañana para ir a la escuela, te fijas por la ventana si hace frío o si hace calor. Entonces si hace frío te ponés campera sino no te ponés campera.
+
+*VALORES BOOLEANOS: cuando pedís permiso a tus papás para salir te dicen SI o NO. Eso es un valor booleano :)
