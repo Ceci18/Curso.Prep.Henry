@@ -1,0 +1,9 @@
+Conceptos explicados como para un niño de 12 años:
+
+*FOR: un bulce for, para que se entienda fácil, es lo siguiente: cuando estás en educación física y el profe te pide hacer abdominales por ejemplo, si te pide hacer 10. Entonces comenzas a repetir la actividad desde el primero hasta el décimo, es decir, estás repitiendo el ejercicio hasta que se ha cumplido con lo pedido.
+
+*OPERADOR LÓGICO &&: Cuando vas a comprarte ropa nueva y elegís una remera Y un pantalón, es decir, comprás las dos cosas.
+
+*OPERADOR LÓGICO ||: Ahora, nuevamente vas a la tienda a comrpar ropa, pero no tenés suficiente dinero. Entonces debés elegir comprar la remera O el pantalón.
+
+*OPERADOR LÓGICO !: es negar algo, es decir, decir NO tengo remeras.
