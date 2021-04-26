@@ -1,0 +1,3 @@
+Conceptos explicados como para un niño de 12 años:
+
+*ARRAY: un arreglo es el orden de los elementos según la posición. Por ejemplo, cuadno ordenas tu habitación y guardas las cosas en una cajonera: en el primer cajon colocas las remeras, en el segundo cajon colocas los pantalones, en el tercer cajon guardas accesorios, etc. Entonces luego puedes ir a abrir el cajon de los pantalones, es decir accedes al primer elemento del arreglo llamado cajonera. Digo primer elemento porque en programación se comienza contando desde cero, entonces: cajon de las remeras (elemento cero), cajon de los pantalones (primer cajon) y así sucesivamente.
