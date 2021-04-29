@@ -1,0 +1,11 @@
+Conceptos explicados como para un niño de 12 años:
+
+*OBJETOS: un objeto te permite crear una colección de propiedades, es decir, por ejemplo: habrá una competencia de tu deporte favorito entonces quienes vayan a competir deben presentar una ficha con sus datos personales, estado de salud, etc. Entonces: la ficha será el objeto de cada persona, y cada dato escrito en ella será una propiedad de ese objeto (ficha).
+
+*PROPIEDADES: como dije cuando expliqué objetos, la propiedad es algo característico del objeto. En el caso de la ficha para la competencia deportiva, mi ficha sería mi objeto y por ejemplo mi nombre y número de documento anotados en ella serían mis propiedades.
+
+*MÉTODOS: un método permite hacer una determinada acción. Lo bueno de los métodos es que podemos usarlos para diferentes objetos. Por ejemplo: en el campeonato deportivo se dispuso que las personas cuyo dni sea impar jugarán en la mañana y las que tengan dni par jugaran de tarde. Entonces usando un método, podríamos analizar en forma más rápida y reutilizando el método que creamos para ver si la persona (objeto) juega de mañana o de tarde, sin necesidad de aplicar la forma de cálculo con cada persona, sino que se usa el método.
+
+*BUCLE FOR IN: nos va a ayudar a recorrer la ficha de cada persona que participe en la competencia, entonces así podremos ir analizando cada propiedad o método que cada ficha (objeto) tenga.
+
+*NOTACIÓN DE PUNTOS vs. NOTACIÓN DE SIGNOS: es la forma de poder acceder a cada una de las propiedades del objeto, es decir, las diferentes formas de acceder a cada uno de los datos de la ficha. Tenemos dos formas: la primera es haciendo objeto.propiedad=" ... " (llevado al ejemplo: ficha.nombre="Ceci" acá estoy asignando mi nombre a mi ficha) o la otra forma es objeto.['propiedad']=" ... " llevado al ejemplo: ficha.['nombre']="Ceci" (acá también asigno mi nombre a mi ficha).
