@@ -1,0 +1,5 @@
+Conceptos explicados como para un niño de 12 años:
+
+*CLASES: las clases serían como las diferentes marcas de autos: puedes fabricar autos marca VW con sus particularidades o autos marca Fiat y las propiedades particulares de Fiat.
+
+*PROTOTYPE: un prototipo te va a permitir lo siguiente: si quieres fabricar un auto de una marca nueva, por ejemplo marca TITI, sabes que los prototipos de autos tienen 4 ruedas, un motor, un volante, etc. Es decir que el prototipo te va a permitir tener ideas que te permitirán servir de regla general, para fabricar el auto de la marca nueva. 
