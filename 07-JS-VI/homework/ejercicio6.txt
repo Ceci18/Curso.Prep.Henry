@@ -1,0 +1,3 @@
+Conceptos explicados como para un niño de 12 años:
+
+*FUNCIONES CALLBACK: una función que llama a otra función en una explicación sencilla sería lo siguiente: llega el día de tu cumpleaños y tienes que organizar la fiesta. Cuando vas a contar la cantidad de empanadas que va a comer cada invitado, calculas que las chicas comen 4 empanadas cada una, mientras que los chicos como comen más, estimas que cada uno comerá 6 empanadas. Entonces, vos tienes una función que vamos a llamar cantidad total de empanadas, que te dirá el total de empanadas. A su vez, esta función que calcula el total de empanadas invoca internamente a otra funci{on que determine si el invitado es chico o chica, para sumar bien sea 6 o 4 empanadas respectivamente.
